@@ -1,4 +1,4 @@
-# Django-Ecommerce
+# Ecommerce mini project
 
 Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
@@ -31,9 +31,9 @@ Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
 # Installation
 
-`git clone https://github.com/J0hnMilt0n/Django-Ecommerce.git`
+`git clone https://github.com/Supritha1609/Ecommerce-mini-project`
 
-`cd Django-Ecommerce`
+`cd Ecommerce-mini-project`
 
 `pip install virtualenv`
 
@@ -73,11 +73,11 @@ pip install Pillow
 ```python
 python manage.py createsuperuser
 Username : admin
-Password : 12345678
+Password : Admin@12345
 ```
 # Demo
 
-http://djangoecommerce.pythonanywhere.com
+http://Ecommerce-mini-project.pythonanywhere.com
 
 # HTML Template
 
